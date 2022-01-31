@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://sinaver:fullStack123@cluster0.hl12d.mongodb.net/app?retryWrites=true&w=majority",
+  "accessSecret": "secret access token",
+  "refreshSecret": "secret refresh token"
+}
